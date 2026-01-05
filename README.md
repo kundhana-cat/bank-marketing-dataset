@@ -22,3 +22,9 @@ Bank Marketing Dataset (UCI Machine Learning Repository)
 - Accuracy score
 - Confusion matrix
 - Decision Tree visualization
+
+<img width="1056" height="360" alt="Screenshot 2026-01-05 210635" src="https://github.com/user-attachments/assets/b4c4a97b-702a-4464-aa33-9143ae4ae6ba" />
+
+
+
+
